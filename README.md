@@ -2,7 +2,7 @@
 
 ### `RosemyneH`
 
-Crafting a seamless interface for the Synastria project. I build tools that transform complex game data into intuitive, rewarding experiences.
+Crafting a seamless interface for the Synastria WoW project. I build tools that transform complex game data into intuitive, rewarding experiences.
 
 <a href="https://github.com/RosemyneH?tab=repositories">View Repos</a> ·
 <a href="https://github.com/RosemyneH/OmniInv-Syn">OmniInv</a> ·
