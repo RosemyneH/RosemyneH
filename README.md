@@ -8,7 +8,11 @@ Crafting a seamless interface for the Synastria WoW project. I build tools that 
 <a href="https://github.com/RosemyneH/OmniInv-Syn">OmniInv</a> ·
 <a href="https://github.com/RosemyneH/AttuneHelper">AttuneHelper</a> ·
 <a href="https://github.com/RosemyneH/TheJournal">TheJournal</a>
-
+<p align="left">
+  <a href="https://github.com/sponsors/RosemyneH">
+    <img src="https://img.shields.io/badge/Sponsor-me-%23ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor me">
+  </a>
+</p>
 <br clear="all"/>
 
 ### Scrapbook (from repo READMEs)
