@@ -104,10 +104,13 @@ Your personal adventure log. An integrated system for tracking milestones and re
 *   **[qtRunner](https://github.com/RosemyneH/qtRunner) & [qtRoll](https://github.com/RosemyneH/qtRoll)**: Lightweight performance modules for execution and loot.
 
 ---
-### 💻 Tech Stack
+### 💻 Language Breakdown
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,lua,rust,ts,js,html,css,qt,linux,nix,vscode,git" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosemyneH&layout=donut&theme=transparent&hide_border=true&langs_count=8"
+    height="220"
+  />
 </p>
 
 ### 📊 System Stats
