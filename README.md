@@ -107,12 +107,6 @@ Your personal adventure log. An integrated system for tracking milestones and re
 
 ### 📊 System Stats
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RosemyneH&theme=github_dark"
-  />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=RosemyneH&theme=transparent&hide_border=true" />
 </p>
 
