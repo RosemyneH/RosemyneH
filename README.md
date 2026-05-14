@@ -104,19 +104,20 @@ Your personal adventure log. An integrated system for tracking milestones and re
 *   **[qtRunner](https://github.com/RosemyneH/qtRunner) & [qtRoll](https://github.com/RosemyneH/qtRoll)**: Lightweight performance modules for execution and loot.
 
 ---
+
+### 📊 System Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosemyneH&layout=compact&theme=transparent&hide_border=true&langs_count=8"
-    height="220"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RosemyneH&theme=github_dark"
   />
 </p>
 
-### 📊 System Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RosemyneH&theme=transparent&hide_border=true" />
+</p>
 
-| GitHub | Streak |
-|:--:|:--:|
-| ![](https://github-readme-stats.vercel.app/api?username=RosemyneH&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&line_height=24) | ![](https://streak-stats.demolab.com/?user=RosemyneH&theme=transparent&hide_border=true) |
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RosemyneH&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RosemyneH&theme=github_dark" />
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=RosemyneH&style=for-the-badge&color=6e5494&label=adventurers)
